@@ -1,6 +1,6 @@
 # Stockman
 
-Tony Zeuch and Richard Ay, September 2020
+Tony Zeuch and Richard Ay, September 2020 **(Updated February 2022)**
 
 ## Table of Contents
 * [Project Objective](#project-objective)
@@ -17,7 +17,7 @@ As an investor, I want an application I can start on a device (phone, tablet, co
 
 ## Acceptance Criteria
 Project requirements include:
-1) Use a CSS framework other than Bootstrap.
+1) Use a CSS framework other than Bootstrap.  **(This application uses the Bulma framework.)**
 2) Be deployed to GitHub Pages.
 3) Be interactive (i.e., accept and respond to user input).
 4) Use at least two server-side APIs.
@@ -27,7 +27,7 @@ Project requirements include:
 8) Have a polished UI.
 9) Have a clean repository that meets quality coding standards (file structure, naming conventions, follows best practices for class/id naming conventions, indentation, quality comments, etc.).
 10) Have a quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
-11) Finally, you must add your project to the portfolio that you created in Module 2.
+11) Finally, you must add your project to the portfolio created in Module 2.
 
 ## Deployment Link
 The deployment link to display the application web page is: 

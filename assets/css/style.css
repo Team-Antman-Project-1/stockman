@@ -20,3 +20,8 @@ table.center {
 table tr .center-table {
     vertical-align: middle;
 }
+
+/* Over-ride the default Bulma text color for the active tab. */
+.is-active {
+    color: blue;
+}

@@ -9,7 +9,7 @@ var closeStockButtonEl = document.querySelector("#stock-close-btn");
 var stockXButtonEl = document.querySelector("#stock-close");
 var stockRemoveEl = document.querySelector("#stock-remove-btn");
 
-// Eventlisteners
+// Event listeners
 editStockButton.addEventListener("click", editStockAlerts);
 stockConfirmEl.addEventListener("click", confirmStockEdits);
 closeStockButtonEl.addEventListener("click", closeStockEdit);
